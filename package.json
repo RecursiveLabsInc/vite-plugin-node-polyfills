@@ -108,7 +108,7 @@
     "process": "^0.11.10",
     "rollup": "^4.6.0",
     "typescript": "4.8.3",
-    "vite": "^5.0.2",
+    "vite": "^7.0.0",
     "vite-node": "^0.34.6",
     "vite-plugin-externalize-deps": "^0.1.5",
     "vite-plugin-inspect": "^0.7.42",
@@ -121,7 +121,7 @@
   "pnpm": {
     "overrides": {
       "buffer": "6.0.3",
-      "vite": "^5.0.2"
+      "vite": "^7.0.0"
     },
     "patchedDependencies": {
       "buffer@6.0.3": "patches/buffer@6.0.3.patch"
